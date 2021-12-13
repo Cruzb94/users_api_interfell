@@ -8,4 +8,6 @@ php artisan passport:install
 
 php artisan db:seed
 
+php artisan storage:link
+
 Se creo un seed con un usuario de prueba.
